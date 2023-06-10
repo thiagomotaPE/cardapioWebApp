@@ -1,0 +1,5 @@
+1.para iniciar o projeto com vite: npm create vite@latest
+
+2.rodar o npm install pra instalar todas as bibliotecas que o vite trouxe
+
+3.rodar o npm run dev pra startar a aplicação com vite
