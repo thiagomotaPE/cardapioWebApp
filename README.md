@@ -1,6 +1,9 @@
 # cardapioWebApp
  Aplicação desenvolvida com react.Ts e SpringBoot
 
+
+ rodar aplicação: npm run dev
+
 foi utilizado no front end:
 
 - React
@@ -11,7 +14,6 @@ foi utilizado no front end:
 foi utilizado no back end:
 
 - SpringBoot
-- Flyway
-- Migrations
+- Flyway Migrations
 - JPA
 - PostgreSQL
